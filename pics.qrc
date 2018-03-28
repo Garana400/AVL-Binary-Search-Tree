@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pic1">
+        <file>png-grass-19.jpg</file>
+    </qresource>
+    <qresource prefix="/test2">
+        <file>png-grass-19.png</file>
+    </qresource>
+</RCC>

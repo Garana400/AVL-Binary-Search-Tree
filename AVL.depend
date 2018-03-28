@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1494622304 source:e:\styding\second tearm\ds\project\avl\main.cpp
+	<iostream>
+	"AVL.h"
+
+1494622283 e:\styding\second tearm\ds\project\avl\include\avl.h
+	<bits/stdc++.h>
+
+1494622320 source:e:\styding\second tearm\ds\project\avl\src\avl.cpp
+	"AVL.h"
+	<bits/stdc++.h>
+
